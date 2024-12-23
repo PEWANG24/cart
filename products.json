@@ -1,0 +1,47 @@
+[
+  {
+    "Products Name": "Phone Nokia 2360",
+    "Products Code": "NV1200",
+    "Discount %": 0,
+    "Price": "Ksh500.00",
+    "Product Type": "Physical",
+    "Delivery Options": "Delivery",
+    "Thumbnail for website": "<a href=\"https://postimg.cc/z3b5M1Ht\" target=\"_blank\"><img src=\"https://i.postimg.cc/z3b5M1Ht/i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview.png\" alt=\"i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview\"/></a>"
+  },
+  {
+    "Products Name": "Laptop- MacBook Air 2022",
+    "Products Code": "Mac2022",
+    "Discount %": 10,
+    "Price": "Ksh9900.00",
+    "Product Type": "Physical",
+    "Delivery Options": "Pick up",
+    "Thumbnail for website": "<a href=\"https://postimg.cc/z3b5M1Ht\" target=\"_blank\"><img src=\"https://i.postimg.cc/z3b5M1Ht/i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview.png\" alt=\"i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview\"/></a>"
+  },
+  {
+    "Products Name": "Tablet-TK326",
+    "Products Code": "TK326",
+    "Discount %": 10,
+    "Price": "Ksh9900.00",
+    "Product Type": "Physical",
+    "Delivery Options": "Delivery",
+    "Thumbnail for website": "<a href=\"https://postimg.cc/z3b5M1Ht\" target=\"_blank\"><img src=\"https://i.postimg.cc/z3b5M1Ht/i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview.png\" alt=\"i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview\"/></a>"
+  },
+  {
+    "Products Name": "Smart Watch -3656 Resetting tool",
+    "Products Code": 3656,
+    "Discount %": 0,
+    "Price": "Ksh500.00",
+    "Product Type": "Digital",
+    "Delivery Options": "Email",
+    "Thumbnail for website": "<a href=\"https://postimg.cc/z3b5M1Ht\" target=\"_blank\"><img src=\"https://i.postimg.cc/z3b5M1Ht/i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview.png\" alt=\"i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview\"/></a>"
+  },
+  {
+    "Products Name": "Youtube Content Creation AI",
+    "Products Code": "AI2034YUT",
+    "Discount %": 10,
+    "Price": "Ksh500.00",
+    "Product Type": "Digital",
+    "Delivery Options": "Email",
+    "Thumbnail for website": "<a href=\"https://postimg.cc/z3b5M1Ht\" target=\"_blank\"><img src=\"https://i.postimg.cc/z3b5M1Ht/i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview.png\" alt=\"i-Phone-13-Pink-PDP-Image-Position-1-B-GBEN-removebg-preview\"/></a>"
+  }
+]
